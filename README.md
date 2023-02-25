@@ -2,6 +2,9 @@
 
 Welcome to my github page :)))
 
+- 🔭 I’m currently creating my own single layer perceptron in python from scratch :)
+- 🌱 I’m currently learning c++
+- 😄 Pronouns: He/him
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elucide&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elucide&layout=compact&theme=gotham" length="100" width="375">
@@ -13,8 +16,7 @@ Welcome to my github page :)))
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
