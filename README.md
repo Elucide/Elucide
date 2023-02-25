@@ -3,7 +3,7 @@
 Welcome to my github page :)))
 
 - 🔭 I’m currently creating my own single layer perceptron in python from scratch :)
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and python/ML
 - 😄 Pronouns: He/him
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elucide&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
