@@ -2,11 +2,13 @@
 
 /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\
 
+
 ### Welcome to my github page :)))
 
 - 🔭 I’m currently creating my own single layer perceptron in python from scratch :)
 - 🌱 I’m currently learning c++ and python/ML
 - 😄 Pronouns: He/him
+
 
 /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\
 
