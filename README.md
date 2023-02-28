@@ -2,13 +2,13 @@
 
 **/^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\**
 
-###Welcome to my github page :)))
+# Welcome to my github page :)))
 
 - 🔭 I’m currently creating my own single layer perceptron in python from scratch :)
 - 🌱 I’m currently learning c++ and python/ML
 - 😄 Pronouns: He/him
 
-**/^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\**
+** /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ /^(o.o)^\ **
 
 <img src="https://github-readme-stats.vercel.app/api?username=Elucide&show_icons=true&theme=gotham&?count_private=true&include_all_commits=true" length="100" width="450"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elucide&layout=compact&theme=gotham" length="100" width="450">
